@@ -16,7 +16,6 @@
 - 📍 From **Luxor, Egypt** 🇪🇬
 - 🌱 Currently focused on **Data Structures & Algorithms** and strengthening core CS fundamentals
 - 💻 Interested in **low-level programming** and writing clean, efficient code
-- 🎯 **Looking for:** Internship opportunities (Software / Backend / Systems)
 
 ---
 
