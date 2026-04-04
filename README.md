@@ -42,10 +42,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MO22BARY&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by MO22BARY" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MO22BARY&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for MO22BARY" />
 </p>
 
