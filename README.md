@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=520&lines=CS+Student+%40+AASTMT;C+%7C+C%2B%2B+%7C+Python+%7C+Java;DSA+Practice+%26+Core+CS+Fundamentals;Low-Level+Programming+Enjoyer" alt="Typing SVG: CS Student at AASTMT; languages; DSA practice; low-level programming" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=520&lines=CS+Student+%40+AASTMT;C+%7C+C%2B%2B+%7C+Python+%7C+Java;DSA+Practitioner" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,11 +39,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MO22BARY&show_icons=true&theme=tokyonight&hide_border=true" alt="MO22BARY's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MO22BARY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="MO22BARY's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MO22BARY&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by MO22BARY" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MO22BARY&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by MO22BARY" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
   <a href="https://github.com/MO22BARY" aria-label="GitHub profile: MO22BARY">
     <img src="https://img.shields.io/badge/GitHub-MO22BARY-181717?style=for-the-badge&logo=github" alt="GitHub: MO22BARY" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-a-abdelbary-29052127a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHIptBDrzSTO6EerBUOxmQQ%3D%3D" aria-label="LinkedIn profile">
+  <a href="https://www.linkedin.com/in/mohamed-a-abdelbary-29052127a" aria-label="LinkedIn profile">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
   </a>
   <a href="https://codeforces.com/profile/3bdelbary" aria-label="Codeforces profile">
