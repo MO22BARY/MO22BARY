@@ -23,16 +23,15 @@
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="My Languages" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="My Tools" />
+</p>
 
 ---
 
@@ -62,13 +61,13 @@
 
 <p align="left">
   <a href="https://github.com/MO22BARY" aria-label="GitHub profile: MO22BARY">
-    <img src="https://img.shields.io/badge/GitHub-MO22BARY-181717?style=for-the-badge&logo=github" alt="GitHub: MO22BARY" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: MO22BARY" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-a-abdelbary-29052127a" aria-label="LinkedIn profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="https://codeforces.com/profile/3bdelbary" aria-label="Codeforces profile">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile: 3bdelbary" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile: 3bdelbary" />
   </a>
 </p>
 
