@@ -1,34 +1,39 @@
-<h1 align="center">Hi there, I'm MO22BARY 👋</h1>
+<h1 align="center">Hi there, I'm Mohamed Ahmed Abdelbary 👋</h1>
 
 <p align="center">
-  <em>Passionate developer | Open source enthusiast | Lifelong learner</em>
+  <em>Computer Science Student · Problem Solver · Passionate about Low-Level Programming</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=CS+Student+%40+AASTMT;C+%7C+C%2B%2B+%7C+Python+%7C+Java;From+Luxor%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies and frameworks
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about software development, coding, and technology
-- 📫 How to reach me: check out my GitHub profile
-- ⚡ Fun fact: I love turning ideas into reality through code
+- 🎓 Computer Science student at **AASTMT** (Arab Academy for Science, Technology & Maritime Transport)
+- 📍 From **Luxor, Egypt** 🇪🇬
+- 💻 I love writing clean, efficient code in C, C++, Python & Java
+- 🌱 Currently deepening my knowledge in **Data Structures & Algorithms**
+- 👯 Looking to collaborate on interesting CS projects
+- 💬 Ask me about anything C/C++, Python, or Java
+- ⚡ Fun fact: I enjoy solving programming challenges in my free time
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frameworks & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -62,4 +67,4 @@
   <img src="https://komarev.com/ghpvc/?username=MO22BARY&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/MO22BARY">MO22BARY</a></p>
+<p align="center">⭐️ From <a href="https://github.com/MO22BARY">Mohamed Ahmed Abdelbary</a></p>
