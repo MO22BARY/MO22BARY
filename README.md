@@ -56,13 +56,13 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/MO22BARY" aria-label="GitHub profile: MO22BARY">
+  <a href="https://github.com/MO22BARY" aria-label="GitHub profile: MO22BARY" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: MO22BARY" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-a-abdelbary-29052127a" aria-label="LinkedIn profile">
+  <a href="https://www.linkedin.com/in/mohamed-a-abdelbary-29052127a" aria-label="LinkedIn profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
-  <a href="https://codeforces.com/profile/3bdelbary" aria-label="Codeforces profile">
+  <a href="https://codeforces.com/profile/3bdelbary" aria-label="Codeforces profile" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile: 3bdelbary" />
   </a>
 </p>
