@@ -35,18 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MO22BARY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="MO22BARY's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MO22BARY&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for MO22BARY" />
-</p>
-
----
-
 ## 💡 A Quote I Like
 
 > "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
