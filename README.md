@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohamed Ahmed Abdelbary 👋</h1>
 
 <p align="center">
-  <em>SW engineer Student · Problem Solver · Passionate about Low-Level Programming</em>
+  <em>SWE Student · Problem Solver · Passionate about Low-Level Programming</em>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Computer Science student at **AASTMT** (Arab Academy for Science, Technology & Maritime Transport).
+- 🎓 SWE student at **AASTMT** (Arab Academy for Science, Technology & Maritime Transport).
 - 📍 Based in **Luxor, Egypt**.
 - 🌱 Currently focused on **Data Structures & Algorithms** and strengthening core CS fundamentals.
 - 💻 Interested in **low-level programming** and writing clean, efficient code.
