@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohamed Ahmed Abdelbary 👋</h1>
 
 <p align="center">
-  <em>Computer Science Student · Problem Solver · Passionate about Low-Level Programming</em>
+  <em>SW engineer Student · Problem Solver · Passionate about Low-Level Programming</em>
 </p>
 
 <p align="center">
